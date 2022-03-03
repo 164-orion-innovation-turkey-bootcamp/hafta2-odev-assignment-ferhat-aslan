@@ -1,4 +1,11 @@
+
 # Hamburger Hazırlama Projesi:
+## Kullanılan Paket
+- console-read-write
+## Sonuç Çıktıları
+<img src="problemli.PNG" alt="problemli" style="width:500px;"/>
+<img src="problemsiz.PNG" alt="problemsiz" style="width:500px;"/>
+
 
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
 Marul
