@@ -17,7 +17,7 @@ Tavuk
 Domates  
 Ekmek  
 Patates  
-Cola  
+Kola  
 
 
 ## 2-İş Süreci:
